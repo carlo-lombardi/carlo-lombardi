@@ -1,7 +1,7 @@
 Hi there 👋
 
 My name is Carlo and I am very happy that you stop by here, 
-we have cookies and some tea. I hope you enjoy this introduction and have a good day.
+we have cookies and some tea. I hope you enjoy this introduction.
 -------------------------------------------------------------------------------------------------
 
 A little bit about me, I come from many places I studied advertising for a year, while working as a chef and running a pool business. 
