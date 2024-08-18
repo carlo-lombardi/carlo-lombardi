@@ -1,21 +1,16 @@
-Hi there 👋
+Full Stack Developer && IT Support Engineer
 
-My name is Carlo, and I am very happy that you stopped by here. We have cookies and some tea, and I hope you enjoy this introduction.
--------------------------------------------------------------------------------------------------
+With over two years of experience at the intersection of software development and IT support, I bring a comprehensive skill set that covers diagnosing, troubleshooting, and resolving complex technical issues. My expertise spans across full-stack development, with proficiency in React, Node.js, and modern web technologies, as well as IT support for systems that adhere to healthcare standards like DICOM and HL7.
 
-A little bit about me: I come from many places. I studied advertising for a year while working as a chef and running a pool business. I decided to move to Ireland to learn English and finish my degree. However, life had other plans, and I ended up working as a chef for three years while learning English.
+In my role as an IT Support Engineer at Tata Consultancy Services, I have honed my ability to manage and maintain imaging equipment, software systems, and networks, ensuring minimal downtime and optimal performance. My background in healthcare IT has deepened my understanding of specialized systems and standards, allowing me to provide critical support in environments where precision and reliability are paramount.
 
-I had some experience with programming when I was 15, where I learned HTML, a little CSS, and JavaScript. Unfortunately, I didn't continue with it in school.
+As a software developer, I’ve successfully optimized processes, improved user experiences, and collaborated with cross-functional teams to deliver robust solutions. My experience includes developing full-stack applications, integrating third-party APIs, and enhancing backend processes to drive efficiency. I am committed to continuous learning and staying up-to-date with the latest technologies to provide innovative and effective solutions.
 
-One day, on my way home from work, I downloaded an application called Mimo (www.getmimo.com) and signed up for the Platzi Academy to learn Python. I found Strive School on Mimo, and it seemed like a promising boot camp to learn front-end and back-end programming.
+Fluent in both Spanish and English, I bring excellent communication skills to every project, ensuring smooth collaboration and a strong focus on delivering quality results.
 
-I decided to immerse myself in it for eight months, and the experience was very enriching and exciting. After a lot of hard work, I completed the school with a project that I am very proud of, and you can see it here.
-
-  www.lombardicarlo.com
-
----------------------------------------------------------------------------------------------------
-
-I am currently learning React Native, as I have seen the potential that React JS has for developing scalable web pages. One of my goals is to develop for mobile, and I have discovered the great opportunity that React Native provides for developing on Android and iOS platforms.
 
 📫 How to reach me: 
   - https://www.linkedin.com/in/carlo-lombardi/
+  - https://carlo-portfolio-git-master-carlo-lombardi.vercel.app/#/home
+  - [My certification](https://strive.school/certificate/614b912235ac8d00185eb336)
+  - [My Tech Blog DarkTech](https://darktech.vercel.app/)
